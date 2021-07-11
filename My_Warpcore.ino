@@ -75,7 +75,7 @@
 #define BottomLEDcount 17	// LEDs below the "Reaction Chamber"
 
 // Default Settings
-#define DefaultWarpFactor 2	// 1-9
+#define DefaultWarpFactor 1	// 1-9
 #define DefaultMainHue 160	// 1-255	1=Red 32=Orange 64=Yellow 96=Green 128=Aqua 160=Blue 192=Purple 224=Pink 255=Red
 #define DefaultSaturation 255	// 1-255
 #define DefaultBrightness 255	// 1-255
